@@ -1,0 +1,8 @@
+# Keep repository text files consistently LF, regardless of a contributor's
+# core.autocrlf setting.
+* text=auto eol=lf
+
+# Preserve conventional Windows-native endings where they remain useful.
+*.sln text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
