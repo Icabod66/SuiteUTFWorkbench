@@ -3,6 +3,8 @@
 SuiteUTFWorkbench is a Windows desktop application for inspecting, diagnosing,
 normalising, and converting UTF-encoded content.
 
+Note that at present this project is merely a stub for the work, no useful functionality is yet present.
+
 ## Prerequisites
 
 - Visual Studio with the **Desktop development with C++** workload
